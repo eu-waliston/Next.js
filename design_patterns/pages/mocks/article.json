@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Breakfast burger",
+    "author": "John Wik",
+    "content": "Some content for the blog",
+    "category": {
+      "title": "Breakfast food",
+      "url": "/category/breakfast"
+    },
+    "image": "shorturl.at/hluIO",
+    "createAt": "2024-05-27",
+    "allowComment ": true,
+    "status": "public"
+  }
+]
