@@ -1,15 +1,9 @@
 
-# Real-World Next.js
-
-Real-World Next.js, published by Packt
-
-<a href="https://www.packtpub.com/product/real-world-next-js/9781801073493"><img src="https://static.packt-cdn.com/products/9781801073493/cover/smaller" alt="978-1-80107-349-3	" height="256px" align="right"></a>
-
-This is the code repository for [Real-World Next.js](https://www.packtpub.com/product/real-world-next-js/9781801073493), published by Packt.
+# Next.js
 
 **Build scalable, high-performance, and modern web applications using Next.js, the React framework for production**
 
-## What is this book about?
+## What is Next.js?
 
 Next.js is a scalable and high-performance React.js framework for modern web development and provides a large set of features, such as hybrid rendering, route prefetching, automatic image optimization, and internationalization, out of the box. If you are looking to create a blog or an e-commerce or a simple website, this book will show you how you can use the multipurpose Next.js framework to create an impressive user experience.
 
